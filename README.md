@@ -19,7 +19,11 @@ It took 1 hour to complete using google colab's GPU.
 ## DESCRIPTION
 
 **benchmarks**: contains 2 images which compares the model's perfomance when using PolynomialDecay.
+
 **bert**: contains 2 notebooks, one for the preprocessing task and the other for training the model.
+
 **bert_classification_alaska_88**: contains the config and weigths of the trained model.
+
 **data**: has the alaska.csv file used.
+
 **test_data**: has the pre-processing data of alaska splited between train, validation, and test set.
